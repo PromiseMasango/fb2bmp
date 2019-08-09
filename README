@@ -1,0 +1,8 @@
+/* Author : Masango Promise
+   Name   : fb2bmp.c (Framebuffer-to-bitmap)
+   Description: Take a screenshot of the current window and save it as a windows bitmap image (24-bit).
+*/
+
+/* info */
+Originally written to be ran on a 32-bit machine (Android) but is should work with most systems.
+Compile using the android C cross-compiler arm-linux-androideabi-gcc.
